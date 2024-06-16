@@ -1,7 +1,7 @@
 # Node.js Express HTMX TailwindCSS Starter Template
 
 ## Getting Started
-*Run the following commands your terminal/command-line:*
+*Run the following commands in your terminal/command-line:*
 1. `npm i` (or `npm install`, if that's what you prefer)
 2. `npm run dev` to run the server on localhost:3000
 
